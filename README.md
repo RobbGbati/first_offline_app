@@ -1,6 +1,11 @@
 # first_offline_app
 
-A new Flutter project.
+Implementation of offline first.
+This app uses Pokemon API to fecth data and store it on SQLite database on mobile device. We also have a mixin which check if the device has connection or not.
+
+Using sqflite, connectivity, bloc, flutter_bloc and dio dependencies. 
+To show date, this app use pokemon API.
+
 
 ## Getting Started
 
